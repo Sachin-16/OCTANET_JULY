@@ -1,3 +1,3 @@
 #  octanet internship  july
 training
-task 1st in 19.7.23
+Webdevelopment intern Task-01: To create a  Landing page 
